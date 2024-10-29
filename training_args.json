@@ -1,0 +1,5 @@
+{
+  "num_batches_per_epoch": 10,
+  "epochs": 10,
+  "learning_rate": 0.1
+}
